@@ -7,4 +7,4 @@ git add .
 
 git commit -m "Add readme file"
 
-git push https://github.com/tejass-intern/ProjectB.git
+git push --force https://github.com/tejass-intern/ProjectB.git
